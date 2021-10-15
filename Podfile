@@ -9,24 +9,6 @@ target 'ThumVive' do
   pod 'Firebase/Auth'
   pod 'Firebase/Analytics'
   pod 'Firebase/Crashlytics'
-  pod 'Firebase/Firestore'
-  pod 'FirebaseFirestoreSwift'
-
-
-
-  pod 'Appirater'
-  pod 'SDWebImage'
-  pod 'ProgressHUD'
-  pod 'MBProgressHUD'
-  pod 'SwiftAudio'
-  pod 'PhoneNumberKit'
-  pod 'SwiftEntryKit'
-  pod 'SwiftyStoreKit'
-  pod 'SwiftyJSON'
-  pod 'Colorful'
-  pod 'Alamofire'
-  pod 'Kingfisher'
-  pod 'SwiftLint'
 
 end
 

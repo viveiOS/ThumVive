@@ -7,17 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1736A3C02718193F006ED761 /* Post.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1736A3BF2718193F006ED761 /* Post.swift */; };
-		1736A3C2271819A5006ED761 /* CustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1736A3C1271819A5006ED761 /* CustomButton.swift */; };
-		1736A3C427181A14006ED761 /* PostDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1736A3C327181A14006ED761 /* PostDetail.swift */; };
-		1736A3C627181A68006ED761 /* SegmentedControlView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1736A3C527181A68006ED761 /* SegmentedControlView.swift */; };
-		1736A3C827181AC3006ED761 /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1736A3C727181AC3006ED761 /* PostCell.swift */; };
-		1736A3CA27181B12006ED761 /* PostTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1736A3C927181B12006ED761 /* PostTableView.swift */; };
-		1736A3CE27181B85006ED761 /* NewPostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1736A3CD27181B85006ED761 /* NewPostCell.swift */; };
-		1736A3D027181B95006ED761 /* NewPostTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1736A3CF27181B95006ED761 /* NewPostTableView.swift */; };
-		1736A3D327181C32006ED761 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1736A3D227181C32006ED761 /* ProfileView.swift */; };
-		1736A3D627181C57006ED761 /* TabBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1736A3D527181C57006ED761 /* TabBarView.swift */; };
-		1736A3D9271823E0006ED761 /* StoryController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1736A3D8271823E0006ED761 /* StoryController.swift */; };
 		17AB3A102713C04A006017A9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17AB3A0F2713C04A006017A9 /* AppDelegate.swift */; };
 		17AB3A122713C04A006017A9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17AB3A112713C04A006017A9 /* SceneDelegate.swift */; };
 		17AB3A142713C04A006017A9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17AB3A132713C04A006017A9 /* ContentView.swift */; };
@@ -26,7 +15,13 @@
 		17AB3A1C2713C054006017A9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 17AB3A1A2713C054006017A9 /* LaunchScreen.storyboard */; };
 		17AB3A272713C055006017A9 /* ThumViveTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17AB3A262713C055006017A9 /* ThumViveTests.swift */; };
 		17AB3A322713C055006017A9 /* ThumViveUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17AB3A312713C055006017A9 /* ThumViveUITests.swift */; };
-		B180257F85733CE21B230B52 /* Pods_ThumVive.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5E4B43ADBE737BA194177351 /* Pods_ThumVive.framework */; };
+		17D71E7E271946290034EA41 /* video4.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 17D71E78271945FA0034EA41 /* video4.mp4 */; };
+		17D71E7F271946290034EA41 /* video2.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 17D71E79271946050034EA41 /* video2.mp4 */; };
+		17D71E80271946290034EA41 /* video5.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 17D71E7A2719460D0034EA41 /* video5.mp4 */; };
+		17D71E81271946290034EA41 /* video3.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 17D71E7B271946170034EA41 /* video3.mp4 */; };
+		17D71E82271946290034EA41 /* video6.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 17D71E7C271946210034EA41 /* video6.mp4 */; };
+		17D71E83271946290034EA41 /* video1.MP4 in Resources */ = {isa = PBXBuildFile; fileRef = 17D71E7D271946290034EA41 /* video1.MP4 */; };
+		473AE1A59D082805E9FFA1B1 /* Pods_ThumVive.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 864601D77EA5C9071CEA03BD /* Pods_ThumVive.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,17 +42,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		1736A3BF2718193F006ED761 /* Post.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Post.swift; sourceTree = "<group>"; };
-		1736A3C1271819A5006ED761 /* CustomButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButton.swift; sourceTree = "<group>"; };
-		1736A3C327181A14006ED761 /* PostDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostDetail.swift; sourceTree = "<group>"; };
-		1736A3C527181A68006ED761 /* SegmentedControlView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegmentedControlView.swift; sourceTree = "<group>"; };
-		1736A3C727181AC3006ED761 /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
-		1736A3C927181B12006ED761 /* PostTableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostTableView.swift; sourceTree = "<group>"; };
-		1736A3CD27181B85006ED761 /* NewPostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewPostCell.swift; sourceTree = "<group>"; };
-		1736A3CF27181B95006ED761 /* NewPostTableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewPostTableView.swift; sourceTree = "<group>"; };
-		1736A3D227181C32006ED761 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
-		1736A3D527181C57006ED761 /* TabBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarView.swift; sourceTree = "<group>"; };
-		1736A3D8271823E0006ED761 /* StoryController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryController.swift; sourceTree = "<group>"; };
 		17AB3A0C2713C04A006017A9 /* ThumVive.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ThumVive.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		17AB3A0F2713C04A006017A9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		17AB3A112713C04A006017A9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -72,9 +56,15 @@
 		17AB3A2D2713C055006017A9 /* ThumViveUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ThumViveUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		17AB3A312713C055006017A9 /* ThumViveUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThumViveUITests.swift; sourceTree = "<group>"; };
 		17AB3A332713C055006017A9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		36BFC89BDD152B9C41EAA681 /* Pods-ThumVive.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ThumVive.debug.xcconfig"; path = "Target Support Files/Pods-ThumVive/Pods-ThumVive.debug.xcconfig"; sourceTree = "<group>"; };
-		5E4B43ADBE737BA194177351 /* Pods_ThumVive.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ThumVive.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		9107AD83B6FE7B84AD4EA2A8 /* Pods-ThumVive.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ThumVive.release.xcconfig"; path = "Target Support Files/Pods-ThumVive/Pods-ThumVive.release.xcconfig"; sourceTree = "<group>"; };
+		17D71E78271945FA0034EA41 /* video4.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = video4.mp4; sourceTree = "<group>"; };
+		17D71E79271946050034EA41 /* video2.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = video2.mp4; sourceTree = "<group>"; };
+		17D71E7A2719460D0034EA41 /* video5.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = video5.mp4; sourceTree = "<group>"; };
+		17D71E7B271946170034EA41 /* video3.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = video3.mp4; sourceTree = "<group>"; };
+		17D71E7C271946210034EA41 /* video6.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = video6.mp4; sourceTree = "<group>"; };
+		17D71E7D271946290034EA41 /* video1.MP4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = video1.MP4; sourceTree = "<group>"; };
+		7AC4FD122087407C7E075F09 /* Pods-ThumVive.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ThumVive.debug.xcconfig"; path = "Target Support Files/Pods-ThumVive/Pods-ThumVive.debug.xcconfig"; sourceTree = "<group>"; };
+		864601D77EA5C9071CEA03BD /* Pods_ThumVive.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ThumVive.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F51136495E6AC5045D030F5D /* Pods-ThumVive.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ThumVive.release.xcconfig"; path = "Target Support Files/Pods-ThumVive/Pods-ThumVive.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,7 +72,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B180257F85733CE21B230B52 /* Pods_ThumVive.framework in Frameworks */,
+				473AE1A59D082805E9FFA1B1 /* Pods_ThumVive.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -103,112 +93,21 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		1736A3B827181738006ED761 /* Managers */ = {
-			isa = PBXGroup;
-			children = (
-				1736A3BA2718181E006ED761 /* UI Button */,
-				1736A3BE271818A5006ED761 /* PostModels */,
-				1736A3BC2718188A006ED761 /* Resources */,
-				1736A3BD2718189B006ED761 /* Notifications */,
-				1736A3D127181C0F006ED761 /* Views */,
-				1736A3D427181C3F006ED761 /* TabBar */,
-				1736A3D7271823BA006ED761 /* StoryController */,
-			);
-			path = Managers;
-			sourceTree = "<group>";
-		};
-		1736A3B927181748006ED761 /* ViewControllers */ = {
-			isa = PBXGroup;
-			children = (
-				1736A3BF2718193F006ED761 /* Post.swift */,
-			);
-			path = ViewControllers;
-			sourceTree = "<group>";
-		};
-		1736A3BA2718181E006ED761 /* UI Button */ = {
-			isa = PBXGroup;
-			children = (
-				1736A3C1271819A5006ED761 /* CustomButton.swift */,
-			);
-			path = "UI Button";
-			sourceTree = "<group>";
-		};
-		1736A3BC2718188A006ED761 /* Resources */ = {
-			isa = PBXGroup;
-			children = (
-				1736A3C527181A68006ED761 /* SegmentedControlView.swift */,
-			);
-			path = Resources;
-			sourceTree = "<group>";
-		};
-		1736A3BD2718189B006ED761 /* Notifications */ = {
-			isa = PBXGroup;
-			children = (
-				1736A3CB27181B30006ED761 /* PostLIst */,
-				1736A3CC27181B5C006ED761 /* NewPost */,
-			);
-			path = Notifications;
-			sourceTree = "<group>";
-		};
-		1736A3BE271818A5006ED761 /* PostModels */ = {
-			isa = PBXGroup;
-			children = (
-				1736A3C327181A14006ED761 /* PostDetail.swift */,
-			);
-			path = PostModels;
-			sourceTree = "<group>";
-		};
-		1736A3CB27181B30006ED761 /* PostLIst */ = {
-			isa = PBXGroup;
-			children = (
-				1736A3C727181AC3006ED761 /* PostCell.swift */,
-				1736A3C927181B12006ED761 /* PostTableView.swift */,
-			);
-			path = PostLIst;
-			sourceTree = "<group>";
-		};
-		1736A3CC27181B5C006ED761 /* NewPost */ = {
-			isa = PBXGroup;
-			children = (
-				1736A3CD27181B85006ED761 /* NewPostCell.swift */,
-				1736A3CF27181B95006ED761 /* NewPostTableView.swift */,
-			);
-			path = NewPost;
-			sourceTree = "<group>";
-		};
-		1736A3D127181C0F006ED761 /* Views */ = {
-			isa = PBXGroup;
-			children = (
-				1736A3D227181C32006ED761 /* ProfileView.swift */,
-			);
-			path = Views;
-			sourceTree = "<group>";
-		};
-		1736A3D427181C3F006ED761 /* TabBar */ = {
-			isa = PBXGroup;
-			children = (
-				1736A3D527181C57006ED761 /* TabBarView.swift */,
-			);
-			path = TabBar;
-			sourceTree = "<group>";
-		};
-		1736A3D7271823BA006ED761 /* StoryController */ = {
-			isa = PBXGroup;
-			children = (
-				1736A3D8271823E0006ED761 /* StoryController.swift */,
-			);
-			path = StoryController;
-			sourceTree = "<group>";
-		};
 		17AB3A032713C049006017A9 = {
 			isa = PBXGroup;
 			children = (
+				17D71E7D271946290034EA41 /* video1.MP4 */,
+				17D71E79271946050034EA41 /* video2.mp4 */,
+				17D71E7B271946170034EA41 /* video3.mp4 */,
+				17D71E78271945FA0034EA41 /* video4.mp4 */,
+				17D71E7A2719460D0034EA41 /* video5.mp4 */,
+				17D71E7C271946210034EA41 /* video6.mp4 */,
 				17AB3A0E2713C04A006017A9 /* ThumVive */,
 				17AB3A252713C055006017A9 /* ThumViveTests */,
 				17AB3A302713C055006017A9 /* ThumViveUITests */,
 				17AB3A0D2713C04A006017A9 /* Products */,
-				B43B6417EAC48DEF80F5DFFE /* Pods */,
-				A6C867A032C0FAED3B17FC43 /* Frameworks */,
+				7728467DEFA499AA5D8F5251 /* Pods */,
+				3BDB9C31723CEB42BFF14198 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -225,8 +124,6 @@
 		17AB3A0E2713C04A006017A9 /* ThumVive */ = {
 			isa = PBXGroup;
 			children = (
-				1736A3B927181748006ED761 /* ViewControllers */,
-				1736A3B827181738006ED761 /* Managers */,
 				17AB3A0F2713C04A006017A9 /* AppDelegate.swift */,
 				17AB3A112713C04A006017A9 /* SceneDelegate.swift */,
 				17AB3A132713C04A006017A9 /* ContentView.swift */,
@@ -264,19 +161,19 @@
 			path = ThumViveUITests;
 			sourceTree = "<group>";
 		};
-		A6C867A032C0FAED3B17FC43 /* Frameworks */ = {
+		3BDB9C31723CEB42BFF14198 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				5E4B43ADBE737BA194177351 /* Pods_ThumVive.framework */,
+				864601D77EA5C9071CEA03BD /* Pods_ThumVive.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		B43B6417EAC48DEF80F5DFFE /* Pods */ = {
+		7728467DEFA499AA5D8F5251 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				36BFC89BDD152B9C41EAA681 /* Pods-ThumVive.debug.xcconfig */,
-				9107AD83B6FE7B84AD4EA2A8 /* Pods-ThumVive.release.xcconfig */,
+				7AC4FD122087407C7E075F09 /* Pods-ThumVive.debug.xcconfig */,
+				F51136495E6AC5045D030F5D /* Pods-ThumVive.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -288,12 +185,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 17AB3A362713C055006017A9 /* Build configuration list for PBXNativeTarget "ThumVive" */;
 			buildPhases = (
-				A32F63D582EDC894BA97F5FD /* [CP] Check Pods Manifest.lock */,
+				A2B5FAA3CC910B3D8D026253 /* [CP] Check Pods Manifest.lock */,
 				17AB3A082713C049006017A9 /* Sources */,
 				17AB3A092713C049006017A9 /* Frameworks */,
 				17AB3A0A2713C049006017A9 /* Resources */,
-				A477393DBD26C64EB3919A49 /* [CP] Embed Pods Frameworks */,
-				1736A3DA27188BC7006ED761 /* ShellScript */,
+				4B93F2BF816E9A274B002835 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -387,6 +283,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				17D71E7E271946290034EA41 /* video4.mp4 in Resources */,
+				17D71E7F271946290034EA41 /* video2.mp4 in Resources */,
+				17D71E80271946290034EA41 /* video5.mp4 in Resources */,
+				17D71E81271946290034EA41 /* video3.mp4 in Resources */,
+				17D71E82271946290034EA41 /* video6.mp4 in Resources */,
+				17D71E83271946290034EA41 /* video1.MP4 in Resources */,
 				17AB3A1C2713C054006017A9 /* LaunchScreen.storyboard in Resources */,
 				17AB3A192713C054006017A9 /* Preview Assets.xcassets in Resources */,
 				17AB3A162713C054006017A9 /* Assets.xcassets in Resources */,
@@ -410,24 +312,24 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		1736A3DA27188BC7006ED761 /* ShellScript */ = {
+		4B93F2BF816E9A274B002835 /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-ThumVive/Pods-ThumVive-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
-			inputPaths = (
-			);
+			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
-			);
-			outputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-ThumVive/Pods-ThumVive-frameworks-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "${PODS_ROOT}/SwiftLint/swiftlint\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-ThumVive/Pods-ThumVive-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
 		};
-		A32F63D582EDC894BA97F5FD /* [CP] Check Pods Manifest.lock */ = {
+		A2B5FAA3CC910B3D8D026253 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -449,23 +351,6 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		A477393DBD26C64EB3919A49 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-ThumVive/Pods-ThumVive-frameworks-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-ThumVive/Pods-ThumVive-frameworks-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-ThumVive/Pods-ThumVive-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
@@ -473,20 +358,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1736A3CE27181B85006ED761 /* NewPostCell.swift in Sources */,
-				1736A3C627181A68006ED761 /* SegmentedControlView.swift in Sources */,
-				1736A3D627181C57006ED761 /* TabBarView.swift in Sources */,
-				1736A3D9271823E0006ED761 /* StoryController.swift in Sources */,
-				1736A3D027181B95006ED761 /* NewPostTableView.swift in Sources */,
 				17AB3A102713C04A006017A9 /* AppDelegate.swift in Sources */,
-				1736A3D327181C32006ED761 /* ProfileView.swift in Sources */,
 				17AB3A122713C04A006017A9 /* SceneDelegate.swift in Sources */,
 				17AB3A142713C04A006017A9 /* ContentView.swift in Sources */,
-				1736A3C02718193F006ED761 /* Post.swift in Sources */,
-				1736A3CA27181B12006ED761 /* PostTableView.swift in Sources */,
-				1736A3C427181A14006ED761 /* PostDetail.swift in Sources */,
-				1736A3C2271819A5006ED761 /* CustomButton.swift in Sources */,
-				1736A3C827181AC3006ED761 /* PostCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -651,7 +525,7 @@
 		};
 		17AB3A372713C055006017A9 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 36BFC89BDD152B9C41EAA681 /* Pods-ThumVive.debug.xcconfig */;
+			baseConfigurationReference = 7AC4FD122087407C7E075F09 /* Pods-ThumVive.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -674,7 +548,7 @@
 		};
 		17AB3A382713C055006017A9 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 9107AD83B6FE7B84AD4EA2A8 /* Pods-ThumVive.release.xcconfig */;
+			baseConfigurationReference = F51136495E6AC5045D030F5D /* Pods-ThumVive.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
